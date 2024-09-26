@@ -89,7 +89,7 @@ After creating these tables, run `DESC` to confirm the table structure. If the d
 2. **Navigate to the Project Folder**:
    Navigate to the folder where your project is located and where the `requirements.txt` file is stored:
    ```bash
-   cd school_management_system  
+   cd School-Management-System  
    ```
 
 3. **Install Dependencies**:
